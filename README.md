@@ -12,7 +12,7 @@ RabbitMQ ve Message Queue mimarisini öğrenmek isteyenler için hazırlanmış 
 
 # 🎯 Amaç
 
-Bu repo aşağıdaki konuları öğretmek için hazırlanmıştır:
+Bu repo, aşağıdaki konularla ilgili izlediğim eğitim sonucunda aldığım notları içermektedir.
 
 * Message Queue mantığı
 * Asenkron mimari
@@ -21,7 +21,14 @@ Bu repo aşağıdaki konuları öğretmek için hazırlanmıştır:
 
 ---
 
+İzlediğim eğitim **Gençay Yıldız**'a aittir.
+
+📺 YouTube Playlist:
+https://www.youtube.com/playlist?list=PLQVXoXFVVtp2aVwD6GX2KCjcD3hSe6vWM
+
+---
+
 # 🧠 Öğrenme Notu
 
 **Kritik Ders Notu:**
-Yazılım Öğreneceksek Teoriden kaçamayız. Niye ve Niçin sorularını sorup cevabını alabileceğiz ki tekniğin bir anlamı olsun.
+Yazılım öğreneceksek teoriden kaçamayız. Niye ve niçin sorularını sorup cevabını alabileceğiz ki tekniğin bir anlamı olsun.
