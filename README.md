@@ -7,7 +7,7 @@ RabbitMQ ve Message Queue mimarisini öğrenmek isteyenler için hazırlanmış 
 # 📚 Dersler
 
 * [Ders 1 - Message Queue Temelleri](ders-01-message-queue.md)
-
+* [Ders 2 - RabbitMQ Kurulum](ders-02-rabbitmq-kurulum.md)
 ---
 
 # 🎯 Amaç
