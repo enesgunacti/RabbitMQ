@@ -8,6 +8,8 @@ RabbitMQ ve Message Queue mimarisini öğrenmek isteyenler için hazırlanmış 
 
 * [Ders 1 - Message Queue Temelleri](ders-01-message-queue.md)
 * [Ders 2 - RabbitMQ Kurulum](ders-02-rabbitmq-kurulum.md)
+* [Ders 3 - Exhange ve  Binding](ders-03-exhange-ve-binding.md)
+
 ---
 
 # 🎯 Amaç
