@@ -10,6 +10,7 @@ RabbitMQ ve Message Queue mimarisini öğrenmek isteyenler için hazırlanmış 
 * [Ders 2 - RabbitMQ Kurulum](ders-02-rabbitmq-kurulum.md)
 * [Ders 3 - Exhange ve  Binding](ders-03-exhange-ve-binding.md)
 * [Ders 4 - Publisher ve  Consumer](ders-04-publisher-ve-consumer.md)
+* [Ders 5 - RabbitMQ Konfigürasyonları](ders-05-gelismis-queue-mimarisi.md)
 ---
 
 # 🎯 Amaç
