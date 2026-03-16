@@ -11,6 +11,8 @@ RabbitMQ ve Message Queue mimarisini öğrenmek isteyenler için hazırlanmış 
 * [Ders 3 - Exhange ve  Binding](ders-03-exhange-ve-binding.md)
 * [Ders 4 - Publisher ve  Consumer](ders-04-publisher-ve-consumer.md)
 * [Ders 5 - RabbitMQ Konfigürasyonları](ders-05-gelismis-queue-mimarisi.md)
+* [Ders 6 - Direct Exchange](ders-06-direct-exchange.md)
+
 ---
 
 # 🎯 Amaç
