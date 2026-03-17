@@ -12,6 +12,7 @@ RabbitMQ ve Message Queue mimarisini öğrenmek isteyenler için hazırlanmış 
 * [Ders 4 - Publisher ve  Consumer](ders-04-publisher-ve-consumer.md)
 * [Ders 5 - RabbitMQ Konfigürasyonları](ders-05-gelismis-queue-mimarisi.md)
 * [Ders 6 - Direct Exchange](ders-06-direct-exchange.md)
+* [Ders 7 - Fanout Exchange](ders-07-fanout-exchange.md)
 
 ---
 
